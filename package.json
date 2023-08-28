@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Lading page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giada15/Natours.git"
+  },
+  "author": "Giada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giada15/Natours/issues"
+  },
+  "homepage": "https://github.com/Giada15/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
